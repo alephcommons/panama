@@ -1,0 +1,6 @@
+followthemoney.store
+data/*
+*.sqlite3
+*.json
+.DS_Store
+tmp/*
