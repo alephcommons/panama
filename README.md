@@ -2,7 +2,11 @@
 
 This dataset was scraped by Dan O'Huiguinn from the Panama companies registry in 2008. See his explanation below.
 
+## FtM Data
 
+This can be imported via `alephclient write-entities` or `aleph load-entities`:
+
+https://archive.org/download/records-000001-050000.tar/panama.json
 
 ## Usage
 
@@ -29,5 +33,3 @@ Now you can, for instance, look up recently-arrested arms dealer Monzer al-Kassa
 Or take Nadhmi Auchi: Iraqi-British billionnaire, companion of Saddam Hussein in the '50s, convicted of fraud in France (but appealing). I've not yet looked through the records of companies held by him and his friends - but there are plenty of records there, doubtless including some interesting connections.
 
 And there are plenty more interesting names to look up. Most satisfyingly, it's already proving useful in figuring out the activities of various currently-active arms dealers...
-
-Want the raw data? Here is a d
